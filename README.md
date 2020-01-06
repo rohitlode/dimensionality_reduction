@@ -1,2 +1,2 @@
-# dimensionality_reduction
+# Dimensionality Reduction on Face Images
 In this project, Principal Component Analysis (PCA) is applied to face images to perform dimensionality reduction. The output is low dimensional facial representation of the input image. We will be using a dataset that consists of face images, each a 32x32 grayscale image. This dataset is based on a cropped version of the "labeled faces in the wild" dataset. This project is implemented as part of the machine learning course from Coursera, while I was learning the Principal Component Analysis chapter.
